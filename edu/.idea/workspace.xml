@@ -29,9 +29,9 @@
       </file>
     </leaf>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="351" />
-    <option name="y" value="167" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="130" />
+    <option name="y" value="150" />
     <option name="width" value="1455" />
     <option name="height" value="1003" />
   </component>
@@ -68,6 +68,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
