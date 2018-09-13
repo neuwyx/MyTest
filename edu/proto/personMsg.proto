@@ -1,0 +1,13 @@
+syntax = "proto2";
+option java_package="com.neu.edu.protocol";  //包名
+option java_outer_classname="PlayerModule";  //类名
+
+message PBPlayer{    // 是上述PlayerModule 中的一个内部类
+    required int64 playerId =1;  //required 表示必须有值，int64表示java中的long
+
+    required int32 age = 2;
+
+    required string name = 3;
+
+    repeated int32 skills = 4;  //repeated 表示可以有多个，表示集合
+}
