@@ -11,3 +11,4 @@ message PBPlayer{    // 是上述PlayerModule 中的一个内部类
 
     repeated int32 skills = 4;  //repeated 表示可以有多个，表示集合
 }
+

@@ -6,7 +6,7 @@ package com.neu.edu.protocol;
 public final class PlayerModule {
   private PlayerModule() {}
   public static void registerAllExtensions(
-          com.google.protobuf.ExtensionRegistryLite registry) {
+      com.google.protobuf.ExtensionRegistryLite registry) {
   }
 
   public static void registerAllExtensions(
