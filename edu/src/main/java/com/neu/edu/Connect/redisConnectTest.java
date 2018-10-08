@@ -18,6 +18,7 @@ public class redisConnectTest {
 
         jedis.set(Thread.currentThread().getName(),"JUST Test");
 
+        // test
     }
 
 }
